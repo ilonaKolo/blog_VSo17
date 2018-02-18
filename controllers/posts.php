@@ -1,6 +1,6 @@
 <?php namespace App;
 
-class welcome extends posts
+class posts extends Controller
 {
 
     /**
