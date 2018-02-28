@@ -1,5 +1,5 @@
 <div class="span8">
-    <?php foreach($post as $post):?>
+    <?php foreach($posts as $post):?>
         <h1><?php echo $post['post_subject'];?></h1>
         <p><?php echo $post['post_text'];?></p>
         <div>
